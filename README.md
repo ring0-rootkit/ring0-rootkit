@@ -36,10 +36,10 @@ let me = Engineer {
 [![](https://skillicons.dev/icons?i=rust,go,solidity,c,cpp,zig,lua,ts,bash)](https://skillicons.dev)
 
 **infra & data**<br/>
-[![](https://skillicons.dev/icons?i=kafka,redis,clickhouse,postgres,grafana,prometheus,docker,kubernetes,nix)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=kafka,redis,postgres,grafana,prometheus,docker,kubernetes,nix)](https://skillicons.dev)
 
 **env**<br/>
-[![](https://skillicons.dev/icons?i=linux,arch,nixos,neovim,vim,tmux,git)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,arch,neovim,vim,git)](https://skillicons.dev)
 
 </div>
 
@@ -49,23 +49,10 @@ let me = Engineer {
 
 | repo | what | lang |
 |---|---|---|
-| [`cagekeeper`](https://github.com/ring0-rootkit/cagekeeper) | secure containerized envs gated by hardware keys & behavioral AI | Python |
+| [`cagekeeper`](https://github.com/ring0-rootkit/cagekeeper) | secure containerized envs gated by hardware keys & behavioral AI | C + Python |
 | [`simpfs`](https://github.com/ring0-rootkit/simpfs) | simple filesystem on libfuse | C |
 | [`simp`](https://github.com/ring0-rootkit/simp) | selective internet messaging protocol | C |
 | [`miraculous.nvim`](https://github.com/ring0-rootkit/miraculous.nvim) | colorscheme | Lua |
-
----
-
-### `> stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ring0-rootkit&show_icons=true&theme=transparent&hide_border=true&icon_color=8b5cf6&title_color=8b5cf6&text_color=cbd5e1&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ring0-rootkit&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=cbd5e1&langs_count=8&hide=html,css" />
-
-<img src="https://streak-stats.demolab.com?user=ring0-rootkit&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" height="165" />
-
-</div>
 
 ---
 
