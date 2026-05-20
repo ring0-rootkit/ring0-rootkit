@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cat-with-crown.png" width="180" alt="ring0"/>
+<img width="180" alt="IMG_20260403_192919" src="https://github.com/user-attachments/assets/c64df894-294e-4123-a6f6-1c0bee5dd069" />
 
 # `ring0-rootkit`
 
